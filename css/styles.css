@@ -1024,6 +1024,8 @@ transition: transform 250ms var(--cubic);
   border: solid 2px var(--primary-txt);
   border-radius: 2px;
   margin-right: 8px;
+
+  transition: background-color 250ms var(--cubic);
   }
 
 .checkbox:checked + .icon-box {
